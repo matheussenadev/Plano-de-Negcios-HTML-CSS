@@ -1,0 +1,172 @@
+Modelo de Plano de Negócio Simples 
+Objetivo: Planejar e criar seus próprios negócios, utilizando um modelo prático e acessível. 
+Estrutura do Plano de Negócio 
+1. Capa 
+• Título: "Plano de Negócio - [PowerUp ]"
+ • Informações: 
+o Nome do aluno ou da equipe: Matheus Sena;
+o Data da elaboração: início no dia 27/11
+o Curso e escola: Técnico em Informática - EEEP Manoel Mano. 
+• Logo: Insira a logo criada para o negócio. 
+2. Resumo 
+Executivo 
+• O que incluir: 
+o Breve descrição do negócio (máximo 5 linhas). Exemplo: "A PowerUp é uma empresa especializada na venda de aparelhos eletrônicos voltados principalmente para o âmbito dos games, assim como na instalação e manutenção destes mesmos aparelhos, podendo personaliza-los de acordo com o gosto do próprio cliente ." 
+o Público-alvo (quem serão os clientes): Os clientes serão o público gamer e interessados na compra de aparelhos eletrônicos, variando de jovens até adultos na maioria dos casos.
+o Objetivos principais (o que o negócio pretende alcançar em 1 ano): O negócio pretende trazer para a cidade de Crateús o acesso e apoio necessário para o público-alvo, o qual não tem tanta visibilidade na região.
+3. Análise de Mercado 
+• O que incluir: 
+o Público-alvo: Ǫuem serão os clientes (ex.: jovens, empresas,  escolas): Nosso público-alvo são jovens e adultos que se interessem pelo mundo gamer e geek, que necessitem de suporte e personalização em seus aparelhos.
+
+o Concorrentes: Os principais concorrentes são empresas que atuem em ramos semelhantes ao de nossa empresa, ou seja, que realizam a venda de periféricos e que sejam voltadas para o mundo gamer. Exemplos na região: Infocell, Liane Cell, Magazine Luiza e outros mais.
+o Diferenciais: O que torna o seu negócio único: O nosso negócio não é somente uma empresa de vendas de aparelhos e periféricos, mas também é específica no ramo de jogos eletrônicos e e-sports. Sua diferenciação é principalmente no quesito de personalização até mesmo domiciliar e atendimento profissional de funcionários instruídos para melhor satisfazer o cliente.
+4. Estrutura do Negócio 
+• O que incluir: 
+o Nome do Negócio: Crie um nome criativo: PowerUp
+ Localização: Onde será o negócio: Será um negócio principalmente físico, mas também haverá um site para ter acesso aos produtos e serviços, os quais podem ser oferecidos na loja ou no ambiente domiciliar.
+ Serviços/Produtos: Liste os serviços e produtos oferecidos. 
+    • Venda de aparelhos e periféricos eletrônicos. 
+    • Exemplo: Monitores, gabinetes, componentes internos do computador, mouses, fones de ouvido, cadeiras gamer, webcam, consoles, notebooks/laptops, óculos de realidade virtual, joystick ou controles, microfones etc.
+    • Personalização destes mesmos aparelhos, com a adição de ilustrações e configurações que auxiliem na prática dos jogos;
+    • Manutenção dos equipamentos por parte dos funcionários;
+    • Atendimento domiciliar para a instalação, manutenção ou personalização dos equipamentos;
+5. Plano 
+Operacional 
+• O que incluir: 
+o Funcionamento: Horário e dias de operação:Funcionará de Segunda a Sábado das 8:00 as 17:00, sendo que dia de sábado só funcionará a partir das 13:00 horas;
+o Etapas do serviço: 
+Em caso de venda de produtos ou personalização:
+    1. O cliente vem até a loja física ou faz seu pedido no site da loja;
+    2. Um funcionário irá atendê-lo; 
+    3. consequentemente vender ou personalizar o produto de interesse do comprador, ou no caso da compra do produto via web, um funcionário irá levar o produto até a casa do cliente, podendo personalizá-lo ou não de acordo com o desejo do cliente;
+    4. Caso não haja um dos produtos que o cliente deseja, será feito a sua encomenda;
+o Equipe: Além de mim, alguns funcionários irão compor nossa equipe;
+    • Um recepcionista/vendedor;
+    • Um funcionário especializado na personalização de produtos/vendedor;
+    • Um funcionário responsável por realizar a manutenção de aparelhos/vendedor;
+      obs: cada um dos funcionários atenderá tanto na loja física como em domicílio;
+6. Plano Financeiro 
+• O que incluir: 
+o Investimentos iniciais: 
+Preços e custos estimados:
+ Aluguel antecipado da loja: 800,00. 
+ Alvará: 150,00 a 200,00;
+ Bancadas para demonstração de produtos: 600,00 a 800,00
+ Mesas para suporte técnico ou atendimento ao cliente: 400,00 a 600,00
+Computador para atendimento x 2: 2300,00 cada
+ Cadeiras ergonômicas para atendentes x 2: 450,00 cada
+ Bancos para clientes na área de espera: 400,00 
+ Painéis perfurados para pendurar fones, cabos e outros acessórios: 200,00 cada 
+ Spots de LED para vitrines e produtos destacados: 200,00 no total
+ Estruturas de vidro na frente da loja para chamar a atenção(vitrine): entre 5000,00 e 6000,00.
+  Prateleiras: 1500,00
+ Climatização: 4500,00
+     Mão de obra da instalação: 3500,00
+     Salário dos funcionários:  1400,00 para cada um dos 3 = 4200,00
+           Gasto Total estimado: 26.850,00 a 28.300,00;
+
+
+o Preços dos serviços/produtos: 
+Serviços:
+    A) Manutenção: entre 50,00 a 300,00 ;
+    B) Personalização: entre 50,00 a 200,00;
+    C) Taxa de entrega: 20,00 a 30,00;
+           Produtos:
+    A) Monitores
+       Básico (19”-22”) : R$ 500 - R$ 1.200;
+       Intermediário (24”-27”, Full HD) : R$ 1.200 - R$ 2.500;
+       Avançado (4K, Ultrawide) : R$ 3.000 - R$ 8.000;
+    B)  Gabinetes
+       Simples : R$ 150 - R$ 300;
+       Com recursos extras (RGB, ventilação otimizada) : R$ 400 - R$ 1.000;
+       Premium (gamers, materiais de alta qualidade) : R$ 1.200 - R$ 2.000;
+    C)  Mouses
+       Básico : R$ 30 - R$ 100;
+       Intermediário (ergonômico, sem fio) : R$ 150 - R$ 400;
+       Avançado (gamers, alta precisão) : R$ 400 - R$ 1.000;
+    D) Teclados:
+        Básico (com fio ou sem fio simples) : R$ 30 - R$ 200
+        Intermediário (ergonômicos ou retroiluminados) : R$ 150 - R$ 400
+       Avançado (gamers mecânicos ou customizáveis) : R$ 600 - R$ 3.000
+    E) Fones de ouvido
+       Simples (com fio) : R$ 50 - R$ 150;
+       Intermediário (Bluetooth) : R$ 200 - R$ 800;
+       Avançado (Cancelamento de Ruído) : R$ 1.000 - R$ 2.500;
+    F) Cadeiras gamer:
+       Básico : R$ 600 - R$ 1.200;
+       Intermediário : R$ 1.500 - R$ 2.500;
+       Prêmio (ajustes avançados) : R$ 3.000 - R$ 5.000;
+    G)  Webcams
+       Básico (720p) : R$ 100 - R$ 300;
+       Intermediário (1080p) : R$ 400 - R$ 800;
+       Avançado (4K, streaming) : R$ 1.000 - R$ 2.000;
+       
+    H) Consoles
+       Básicos (edições passadas, como PS4 ou Xbox One) : R$ 1.500 - R$ 2.500;
+       Atuais (PS5, Xbox Series X) : R$ 3.500 - R$ 6.000;
+       Portáteis (Nintendo Switch, Steam Deck) : R$ 2.500 - R$ 4.500;
+    I) Notebooks/Laptops
+       Básico (uso diário) : R$ 1.500 - R$ 3.000;
+       Intermediário (trabalho e estudos) : R$ 3.000 - R$ 6.000;
+       Premium (gamers, alta performance) : R$ 7.000 - R$ 15.000;
+    J) Óculos de realidade virtual:
+       Entrada (básica) : R$ 2.000 - R$ 3.500;
+       Intermediário (autônomo, como Oculus Quest 2) : R$ 4.000 - R$ 6.000;
+       Premium (alta aquisição) : R$ 8.000 - R$ 15.000;
+    K) Joysticks ou controles
+       Genéricos : R$ 50 - R$ 150;
+       Oficiais (PS5, Xbox) : R$ 350 - R$ 600;
+       Premium (personalizados, gamers) : R$ 800 - R$ 2.000;
+    L)  Microfones
+       Simples (headset ou desktop) : R$ 50 - R$ 300;
+       Intermediário (condensador para podcasts) : R$ 500 - R$ 1.500;
+       Avançado (estúdio) : R$ 2.000 - R$ 5.000;
+    M) Processadores (CPUs):
+       Básicos (uso geral, Dual-Core) : R$ 600 - R$ 1.200;
+       Intermediários (Quad-Core, multitarefas) : R$ 1.200 - R$ 2.500;
+       Avançados (alta performance, gamers e trabalho pesado) : R$ 3.000 - R$ 5.000;
+    N) Placas-mãe:
+       Entrada (chipsets básicos) : R$ 400 - R$ 800;
+       Intermediário (suporte a mais recursos, como RAM DDR5) : R$ 900 - R$ 1.500;
+       Avançado (gamers ou profissionais) : R$ 1.800 - R$ 3.000;
+    O) Placas de vídeo (GPUs):
+       Básicas (uso geral, Full HD) : R$ 1.000 - R$ 2.500;
+       Intermediários (jogos em Full HD ou 1440p) : R$ 3.000 - R$ 6.000;
+       Avançadas (4K ou produção gráfica pesada) : R$ 7.000 - R$ 15.000;
+    P)  Memória RAM:
+       4 GB - 8 GB (DDR4) : R$ 150 - R$ 300;
+       16GB (ideal para jogos e multitarefas) : R$ 400 - R$ 800;
+       32GB ou mais (para edição de vídeo ou uso profissional) : R$ 1.200 - R$ 2.000;
+    Q)  Armazenamento:
+       HDD (1 TB - 2 TB) : R$ 250 - R$ 500;
+       SSD SATA (256 GB - 1 TB) : R$ 250 - R$ 800;
+       SSD NVMe (mais rápido, 500GB - 2TB) : R$ 400 - R$ 2.000;
+    R) Fontes de alimentação:
+       Básicas (400W - 500W) : R$ 200 - R$ 400;
+       Intermediárias (600W - 750W, 80 Plus) : R$ 450 - R$ 700;
+       Avançadas (modulares, acima de 850W) : R$ 800 - R$ 1.500;
+    S) Coolers e sistemas de refrigeração:
+       Cooler simples (ar) : R$ 50 - R$ 200;
+       Coolers intermediários (gamers, RGB) : R$ 300 - R$ 600;
+       Watercooler (alta performance) : R$ 800 - R$ 2.000;
+       
+       
+o Projeção de lucros: A projeção de lucro para o primeiro mês é de 2.000,00 – 3.000,00 reais;
+7. Estratégia de Marketing 
+• O que incluir: 
+o Divulgação: O nosso negócio será divulgado por meio das redes sociais e posteriormente em outdors pela cidade;
+o Promoções: Durante o primeiro mês de funcionamento da loja, ao realizar 200,00 reais em compras, o cliente receberá um ticket de 30,00 reais para gastar em nossa loja;
+Ao comprar um console atual como um PS5 ou um Xbox SerieX, o cliente ganha uma personalização gratuita;
+Ao fazer 700,00 reais em compras, o cliente poderá participar de um sorteio, sendo seu prêmio um  monitor intermediário e um teclado mecânico;
+8. Metas e 
+Avaliação 
+• O que incluir: 
+o Metas a curto prazo (6 meses): Se consolidar na região de atuação, obtendo a confiança dos clientes e a popularidade local;
+o Metas a longo prazo (1 ano): Expandir a clientela e posteriormente organizar campeonatos de e-sports;
+o Monitoramento:  Revisar mensalmente o número de clientes e o faturamento, observando os gastos desnecessários e investindo somente no que é necessário;
+Estrutura Visual do Plano 
+Para facilitar o entendimento, sigam o layout com os seguinteselementos: 1. Título em Destaque: Utilize fontes maiores para os títulos de cada seção. 2. Imagens Simbólicas: 
+o Adicione imagens para ilustrar ideias, como: 
+▪ Computadores ou tecnologia para serviços de TI. 
+▪ Gráficos ou ícones para dados financeiros. 
+3. Cores: Escolher cores neutras ou relacionadas ao tema do negócio.
